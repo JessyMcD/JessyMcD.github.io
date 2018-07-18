@@ -1,0 +1,72 @@
+h1 {
+    font-size: 50px;
+}
+h3 {
+    font-size: 25px;
+}
+p {
+    font-size: 20px;
+}
+table {
+    font-size: 18px;
+}
+form {
+    font-size: 18px;
+}
+
+body{
+	background-image: url("rainbowz");
+}
+
+h1 {
+    color: seagreen;
+font-family: "Verdana", sans-serif;
+}
+
+h2 {
+    color: red;
+font-family: "Verdana", sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+
+p {
+    font-family: "Verdana", sans-serif;
+}
+
+h3 {
+    font-family: "Verdana", sans-serif;
+}
+
+h3 {
+    color: teal;
+font-family: "Verdana", sans-serif;
+}
+
+tr{
+    text-align: center;
+}
+
+tr {
+
+font-family: "Verdana", sans-serif;
+}
+
+form {
+
+font-family: "Verdana", sans-serif;
+}
+table{
+    text-align: center;
+}
+
+
+
