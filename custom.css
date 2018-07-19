@@ -7,6 +7,10 @@ h3 {
 h4 {
     font-size: 25px;
 }
+h4 {
+font-family: "Verdana", sans-serif;
+}
+
 p {
     font-size: 20px;
 }
@@ -55,10 +59,7 @@ h3 {
     color: teal;
 font-family: "Verdana", sans-serif;
 }
-h4 {
-    color: burntorange;
-font-family: "Verdana", sans-serif;
-}
+
 
 tr{
     text-align: center;
