@@ -1,11 +1,11 @@
 body {
     font-family: "Verdana", sans-serif;
 }
-h4 {
+h3 {
     font-family: "Verdana", sans-serif;
 }
 body {
-    font-size: 20 px;
+    font-size: 25 px;
 }
 h4 {
    font-weight: bold;
@@ -13,6 +13,6 @@ h4 {
 body{
 	background-image: url("rainbowz");
 }
-h4 {
+h3 {
    font-size: 30;
 }
