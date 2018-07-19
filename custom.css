@@ -4,6 +4,9 @@ h1 {
 h3 {
     font-size: 25px;
 }
+h4 {
+    font-size: 25px;
+}
 p {
     font-size: 20px;
 }
@@ -50,6 +53,10 @@ h3 {
 
 h3 {
     color: teal;
+font-family: "Verdana", sans-serif;
+}
+h4 {
+    color: burntorange;
 font-family: "Verdana", sans-serif;
 }
 
